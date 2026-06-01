@@ -1,0 +1,6 @@
+{
+  "name": "Control AAXA M1",
+  "description": "A full infrared remote control for the AAXA M1 Limited projector via a USB OTG infrared adapter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
